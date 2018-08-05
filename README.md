@@ -15,7 +15,7 @@ fluttertoast: ^0.0.1
 ```
 
 ```dart
-Fluttertoast.showToast(
+TazFluttertoast.showToast(
         icon: ToastIcon.person,
         msg: "This is Center Short Toast",
         toastLength: Toast.LENGTH_SHORT,
