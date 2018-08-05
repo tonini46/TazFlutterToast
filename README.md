@@ -11,11 +11,11 @@ Android Toast Library for Flutter
 
 ```yaml
 # add this line to your dependencies
-fluttertoast: ^0.0.1
+tazfluttertoast: ^0.0.1
 ```
 
 ```dart
-TazFluttertoast.showToast(
+Tazfluttertoast.showToast(
         icon: ToastIcon.person,
         msg: "This is Center Short Toast",
         toastLength: Toast.LENGTH_SHORT,
